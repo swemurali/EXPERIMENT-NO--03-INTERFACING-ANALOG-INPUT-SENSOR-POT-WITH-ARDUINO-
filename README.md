@@ -103,14 +103,13 @@ void loop()
 
 ## Simulation output:
 
-![RO1 (1)](https://user-images.githubusercontent.com/94165336/203827809-f1d4274f-c620-465f-a1b9-d1a94d3465f7.png)
-![RO1 (1)](https://user-images.githubusercontent.com/94165336/203827831-8b68aacc-a73d-411d-b271-e63c5cf7275c.png)
 
 
 
+![before](https://user-images.githubusercontent.com/94165336/203828472-4f885fb3-3e86-4d30-85f3-17945284b31e.png)
 
 
-
+![after1](https://user-images.githubusercontent.com/94165336/203828504-fb1ca6e1-be74-4cf3-9eff-9f08df3e02bb.png)
 
 
 
