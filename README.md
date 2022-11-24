@@ -68,6 +68,28 @@ CIRCUIT DIAGRAM
 
 **PROGRAM** 
  
+int ledpin=7;
+int pushpin=2;
+int val=0;
+void setup()
+{
+  pinMode(ledpin, OUTPUT);
+  pinMode(pushpin,INPUT);
+}
+
+void loop()
+{
+  val =digitalRead(pushpin);
+  if(val==0)
+  {
+    digitalWrite(ledpin,HIGH);
+  }
+  else
+  {
+    digitalWrite(ledpin,LOW);
+  }
+    
+}
 
 
 
@@ -80,9 +102,11 @@ CIRCUIT DIAGRAM
 **
 **Simulation output:** 
 **
+![RO1 (1)](https://user-images.githubusercontent.com/94165336/203827809-f1d4274f-c620-465f-a1b9-d1a94d3465f7.png)
+![RO1 (1)](https://user-images.githubusercontent.com/94165336/203827831-8b68aacc-a73d-411d-b271-e63c5cf7275c.png)
 
 
-[My image](username.github.com/repository/img/image.jpg)
+
 
 
 
