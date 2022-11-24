@@ -66,7 +66,8 @@ CIRCUIT DIAGRAM
 
 
 
-**PROGRAM** 
+## PROGRAM
+~~~
  
 int ledpin=7;
 int pushpin=2;
@@ -93,15 +94,15 @@ void loop()
 
 
 
+~~~
 
 
 
 
 
 
-**
-**Simulation output:** 
-**
+## Simulation output:
+
 ![RO1 (1)](https://user-images.githubusercontent.com/94165336/203827809-f1d4274f-c620-465f-a1b9-d1a94d3465f7.png)
 ![RO1 (1)](https://user-images.githubusercontent.com/94165336/203827831-8b68aacc-a73d-411d-b271-e63c5cf7275c.png)
 
